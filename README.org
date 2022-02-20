@@ -1,0 +1,6 @@
+* fish-config-systemd
+
+Repository to add my fish files to create abbreviations related to systemd.
+
+
+License [[LICENSE][GPLv3]]
